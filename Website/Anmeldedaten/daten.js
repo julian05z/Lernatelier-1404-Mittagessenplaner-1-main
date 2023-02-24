@@ -1,1 +1,1 @@
-gaga
+const test = ""
